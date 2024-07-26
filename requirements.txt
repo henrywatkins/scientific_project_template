@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+sae-lens
+tqdm
+black
+isort
+bitsandbytes
+accelerate
+git+https://github.com/TransformerLensOrg/TransformerLens
